@@ -2,8 +2,6 @@ Attribute VB_Name = "ExcelModule"
 Option Explicit
 
 ' Constants for string patterns
-Private Const INCIDENTE_PATTERN As String = "INC[0-9]+|SOL[0-9]+|RFC[0-9]+"
-Private Const APESA_FOLIO_PATTERN As String = "Folio\s[0-9]{6}\-[0-9]{2}"
 Private Const SUBJECT_REJECT_PATTERN As String = "Entregado:|Retransmitido:|Leído:|Read:|Aceptada:|Accepted:|Respuesta automática:"
 Private Const BODY_CUT_PATTERN As String = "De:"
     ' Configure mailbox
