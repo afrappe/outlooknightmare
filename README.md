@@ -47,4 +47,4 @@ Para **cargar un archivo `.bas` como macro en Excel**, sigue estos pasos:
 
 ---
 
-🔹 **¡Ya tienes tu archivo `.bas` cargado como macro en Excel!** ¿Necesitas ayuda con alguna parte del proceso? 😊
+
