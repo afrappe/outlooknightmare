@@ -7,7 +7,7 @@ Private Const APESA_FOLIO_PATTERN As String = "Folio\s[0-9]{6}\-[0-9]{2}"
 Private Const SUBJECT_REJECT_PATTERN As String = "Entregado:|Retransmitido:|Leído:|Read:|Aceptada:|Accepted:|Respuesta automática:"
 Private Const BODY_CUT_PATTERN As String = "De:"
     ' Configure mailbox
-Private Const MAILBOX As String = "dape-simefin@banobras.gob.mx"
+Private Const MAILBOX As String = "afrappe@sociedad-general.mx"
 Private Const FOLDER As String = "Bandeja de entrada"
 
 Function GetLastDate() As Date
